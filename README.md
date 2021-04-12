@@ -3,7 +3,7 @@
 ## Background
 I ran into a problem whereby I needed to incorporate a magazine into a CraftCMS website that had been generated using a neat bit of software by the name of '[FlipBuilder](http://www.flipbuilder.com/)'. This would be a regular thing, so I was hoping I'd simply be able to drag and drop the outputted files into the templates folder and that it would magically work.
 
-It didn't. So I wrote this plugin. The full story and more info can be found on my [blog](https://www.james-nock.co.uk/blog/tutorials/2018/06/30/craftcms-flipbuilder-plugin/)
+It didn't. So I wrote this plugin. The full story and more info can be found on my [blog](https://blog.james-nock.co.uk/tutorials/2018/06/30/craftcms-flipbuilder-plugin/).
 
 ## Install Instructions
 
